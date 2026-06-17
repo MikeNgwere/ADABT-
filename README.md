@@ -2,7 +2,7 @@
 
 **Module:** MCS501 — Advanced Data Structures & Algorithms
 **University:** University of Zimbabwe · MSc Computer Science · 2026
-**Authors:** Mike Ngwere (R186209Q) & John Mberi(R2425845)
+**Authors:** Mike Ngwere (R186209Q) & John Mberi (R2425845)
 
 ---
 
