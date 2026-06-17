@@ -449,7 +449,7 @@ with tab3:
 
 with tab4:
     st.markdown("### ℹ️ ADABT — Research Notes, Architecture & How to Use")
-    st.caption("MCS501 · Advanced Data Structures & Algorithms · University of Zimbabwe · 2025")
+    st.caption("MCS501 · Advanced Data Structures & Algorithms · University of Zimbabwe · 2026")
     st.divider()
     col1,col2=st.columns(2)
     with col1:
