@@ -608,7 +608,7 @@ with tab4:
     </div>
     <div style="font-size:12px;color:#64748B;margin-top:6px">
     MCS501 — Advanced Data Structures & Algorithms &nbsp;|&nbsp;
-    University of Zimbabwe, Department of Computer Science &nbsp;|&nbsp; 2025
+    University of Zimbabwe, Department of Computer Science &nbsp;|&nbsp; 2026
     </div>
     <div style="font-size:12px;color:#94A3B8;margin-top:4px">
     <b>Mike Ngwere</b> (R186209Q) &nbsp;|&nbsp; <b>John Mberi</b> (R2425845)
