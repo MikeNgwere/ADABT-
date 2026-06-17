@@ -1,8 +1,8 @@
 # ADABT: An AI-Driven Adaptive B-Tree for Optimised Deletion on Large-Scale Datasets with Proactive Overflow and Underflow Elimination
 
 **Module:** MCS501 — Advanced Data Structures & Algorithms
-**University:** University of Zimbabwe · MSc Computer Science · 2025
-**Authors:** Mike Ngwere (R186209Q) & John Mberi
+**University:** University of Zimbabwe · MSc Computer Science · 2026
+**Authors:** Mike Ngwere (R186209Q) & John Mberi(R2425845)
 
 ---
 
